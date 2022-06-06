@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+}
+h1,input{
+  position: relative;
+  padding:2px 0;
+  top: 50px;
+}
+#submit{
+  position: relative;
+  top: 50px;
+  left: 12px;
+  font-weight: bold !important;
+}
+Table{
+  position: relative;
+  top: 100px;
+}
+Button{
+  margin-left: 10px;
+}
